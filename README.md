@@ -39,22 +39,6 @@
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiyamatUllah-10&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NiyamatUllah-10&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiyamatUllah-10&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📂 Featured Repositories
 - 🚀 Competitive Programming Solutions (Structured & Categorized)
 - 📚 Data Structures Implementation in C++
@@ -65,9 +49,6 @@
 ## 📫 Connect With Me
 - Codeforces: https://codeforces.com/profile/NIYAMAT09
 - CodeChef: https://www.codechef.com/users/niyamat_ullah
-- Email: niyama70@gmail.com
+- Email: niyamatu990@gmail.com
 
 ---
-
-## 👀 Profile Visitors
-![Visitor Count](https://komarev.com/ghpvc/?username=NiyamatUllah-10&color=blue)
