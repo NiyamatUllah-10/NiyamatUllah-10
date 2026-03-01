@@ -33,9 +33,15 @@
   - Binary Search (Basic & Answer-Based)
   - Graph (BFS/DFS)
   - Dynamic Programming (Basic)
+    
+---
 
-### 🔥 Codeforces Badge
-![Codeforces](https://img.shields.io/badge/Codeforces-NIYAMAT09-orange?logo=codeforces)
+## 🏅 Trophies & Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-Bronze?style=flat-square&logo=codeforces&color=green" />
+  <img src="https://img.shields.io/badge/CodeChef-Star?style=flat-square&logo=codechef&color=blue" />
+  <img src="https://img.shields.io/badge/LeetCode-Solving?style=flat-square&logo=leetcode&color=orange" />
+</p>
 
 ---
 
